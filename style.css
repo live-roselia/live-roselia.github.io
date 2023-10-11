@@ -90,6 +90,7 @@ footer {
     font-size: 20px;
     font-weight: bold;
     text-align: right;
+    bottom: 0;
 }
 
 a,a:hover,a:visited{
