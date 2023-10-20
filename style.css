@@ -3,11 +3,14 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(img/background.png);
     font-size: 16px;
     font-family: 'M PLUS Rounded 1c', sans-serif;
-    background-color: #fffeee;
+    background-color: #fffffff;
     text-align: left;
+}
+
+.bg {
+    background-image: url(img/background.png);
 }
 
 .box img{
@@ -72,11 +75,18 @@ table {
     height: auto;
     font-weight: bold;
     font-size: 20px;
+    border-collapse:separate;
+    border-spacing: 5px;
 }
 
 th,td {
     border: solid 1px;
     padding: 10px;
+    border-radius: 5px;
+}
+
+td {
+    border:solid 1px #EC008C;
 }
 
 th {
@@ -86,6 +96,10 @@ th {
     vertical-align:middle;
     background-color: #EC008C;
     color: #FFF;
+}
+
+.td2 {
+    border: none;
 }
 
 footer {
