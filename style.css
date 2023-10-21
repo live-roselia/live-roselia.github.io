@@ -67,6 +67,14 @@ body {
     color: #0bd;
 }
 
+footer a {
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: #0bd;
+}
+
 .box img{
     width: 100%;
     height: auto;
