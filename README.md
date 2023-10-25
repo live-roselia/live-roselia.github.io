@@ -1,4 +1,4 @@
-![roselia_live](https://github.com/live-roselia/live-roselia.github.io/assets/147565184/dfd5cefb-ad51-4d69-b6c5-fbcc022dfdfc)
+![1500x500](https://github.com/live-roselia/live-roselia.github.io/assets/147565184/256869ce-28e2-4eda-982d-3d5ae084d4fc)
 
 **https://live-roselia.github.io/**
 <br>
